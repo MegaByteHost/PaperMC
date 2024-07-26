@@ -1,0 +1,2 @@
+# This is an auto-generated eula.txt file from MegaByte Hosting
+eula=true
